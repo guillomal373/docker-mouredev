@@ -4,6 +4,8 @@ Taller de DOCKER Desde Cero a Producción
 
 Youtube: <https://www.youtube.com/watch?v=QOtOv3h42ew&ab_channel=MoureDevTV>
 
+FASTAPI: <FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.8+ based on standard Python type hints.>
+
 ## Docker sirve para manejar contenedores
 
 - Contenedor: Ambiente aislado para tu código, independiente al Sistema Operativo

@@ -34,3 +34,7 @@ FASTAPI: <FastAPI is a modern, fast (high-performance), web framework for buildi
 - Documentación <https://docs.docker.com/guides/get-started/>
 - Docker Hub <https://hub.docker.com>
 - Railway <https://railway.app> (alternativa a vercel)
+
+## Autor video de docker
+
+- <https://jgmedellin.vercel.app/es#skills>
